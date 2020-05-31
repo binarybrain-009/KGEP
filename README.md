@@ -20,5 +20,5 @@ A Knowledge Graph based Approach for Mobile Application Recommendation
 ### Running the code
 ```
 $ cd src
-$ pytho main.py
+$ python main.py
 ```

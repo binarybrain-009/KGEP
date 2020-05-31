@@ -3,7 +3,7 @@ A Knowledge Graph based Approach for Mobile Application Recommendation
 ### Files in the folder
 
 + data/
-    + entity2id.txt:the mapping from entity names to entity IDs indices in the KG;the first row represents the number of entities;
+    + entity2id.txt:the mapping from entity names to entity IDs in the KG;the first row represents the number of entities;
     + app_id.txt:all item(app) IDs in the KG;
     + kg.txt:knowledge graph, each row is a triple;
     + TransD.json:results of [transD](https://github.com/thunlp/OpenKE) ;

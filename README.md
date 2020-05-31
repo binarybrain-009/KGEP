@@ -12,3 +12,13 @@ A Knowledge Graph based Approach for Mobile Application Recommendation
     + user_id.txt:sets of user IDs;
     + user_similar_user_kg.txt:knowledge graph of similar users.
 + src/:implementations of KGEP.
+### Required packages
+* python == 3.7.6
+* tensorflow == 1.15.2
+* numpy == 1.18.3
+* sklearn == 0.20.1
+### Running the code
+```
+$ cd src
+$ pytho main.py
+```
